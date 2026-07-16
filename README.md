@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -23,4 +24,12 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
