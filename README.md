@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0066-plus-one) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
