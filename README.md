@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viswanadhampavan-2006/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
